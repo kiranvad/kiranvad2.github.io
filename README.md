@@ -1,10 +1,10 @@
 ## Welcome to my personal webpage.
 
-I am a PhD student at the [Materials Design and Innovation](http://engineering.buffalo.edu/materials-design-innovation.html), Univeristy at Buffalo, Buffalo, NY, USA. 
+I am a PhD student at the department of [Materials Design and Innovation](http://engineering.buffalo.edu/materials-design-innovation.html), Univeristy at Buffalo, Buffalo, NY, USA. 
 
 I am working at the interface of Machine learning and Computational Material Sciences. 
 
-Previously, I obtained my Bachelors and Masters from [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/)
+Previously, I spent wonderful five years at the prestigious [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/) and obtained bachelors and masters from the department of Mechanical Engineering. 
 
 
 My full CV is [here](https://github.com/kiranvad/kiranvad.github.io/blob/master/cv.pdf)
@@ -51,4 +51,5 @@ Minor : Industrial Engineering
 * December 2018, Materials Research Society Fall Meeting, Boston, MA, USA (Poster) \
 *Data Analytics for Mapping Catalytic Activity From High Throughput Cyclic Voltammetry*
     
-
+## Others
+I am an ardent [cricket](https://en.wikipedia.org/wiki/Cricket) fan and spend a lot of my free time watching, analyzing and writing about the beatiful game I've been watching for the better part of 18 years!<br/>
