@@ -8,7 +8,11 @@ I am working at the interface of Machine learning and Computational Material Sci
 
 Previously, I obtained my Bachelors and Masters from [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/)
 
-## Reserach Interestes
+[Google Scholar](https://scholar.google.com/citations?user=GbNEbEkAAAAJ&hl=en&oi=ao) \
+[Github](https://github.com/kiranvad)
+
+
+## Reserach Interests
 My main research interests are learning representations for data-efficient scientific discovery and understanding of physical phenomenon. Representations play key role in realizing the dream of autonomous experimental design using techniques such as active learning and reinforcement learning. I am interested in developing frameworks to understand materials based on their topology and (differential) geometry that are both computationally tractable and interpretable.
 
 ## Education
@@ -42,11 +46,11 @@ Minor : Industrial Engineering
  
 
 ## Conferences
-1. December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk)
-*Accelerating catalyst discovery using Gaussian processes and active learning* 
-2. Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster)
+1. December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk) \
+*[Accelerating catalyst discovery using Gaussian processes and active learning]*(https://github.com/kiranvad/gpcv/blob/master/docs/MRS2019.pdf) 
+2. May 2019, Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster) \
 *Machine Learning-Based Simulation tools for Combinatorial Experiments*
-3. Materials Research Society Fall Meeting, Boston, MA, USA (Poster)
+3. December 2018, Materials Research Society Fall Meeting, Boston, MA, USA (Poster) \
 *Data Analytics for Mapping Catalytic Activity From High Throughput Cyclic Voltammetry*
     
 
