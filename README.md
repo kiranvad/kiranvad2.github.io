@@ -14,7 +14,7 @@ My main research interests are learning representations for data-efficient scien
 ## Education
 
 ### University at Buffalo, Buffalo, NY, USA (2017-2021 Expected)
-_PhD in Materials Design and Innovation _
+_PhD in Materials Design and Innovation_
 
 Thesis : Representations for data driven material discovery
 
@@ -34,9 +34,19 @@ Minor : Industrial Engineering
  
 ## Publications
 
-* _Vaddi, Kiran_, and Olga Wodo. *Metric Learning for High-Throughput Combinatorial Data Sets.* ACS Combinatorial Science 21.11 (2019): 726-735.
+* **Vaddi, Kiran**, and Olga Wodo. [Metric Learning for High-Throughput Combinatorial Data Sets. ACS Combinatorial Science 21.11 (2019): 726-735.](https://pubs.acs.org/doi/abs/10.1021/acscombsci.9b00086)
 
-* Elikkottil, A., _Vaddi, K._, Reddy, K. S., Pesala, B. *Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings.* In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020
+* Elikkottil, A., **Vaddi, K.**, Reddy, K. S., Pesala, B. [Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings.* In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020](https://link.springer.com/chapter/10.1007/978-981-15-2666-4_5)
 
-* _Vaddi, Kiran_, Olga Wodo, Krishna Rajan. *Active knowledge extraction from cyclic voltammetry* ACS Analytical Chemistry, _to be submitted_, 2020
+* **Vaddi, Kiran**, Olga Wodo, Krishna Rajan. **Active knowledge extraction from cyclic voltammetry** ACS Analytical Chemistry, _to be submitted_, 2020
  
+
+## Conferences
+1. December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk)
+*Accelerating catalyst discovery using Gaussian processes and active learning* 
+2. Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster)
+*Machine Learning-Based Simulation tools for Combinatorial Experiments*
+3. Materials Research Society Fall Meeting, Boston, MA, USA (Poster)
+*Data Analytics for Mapping Catalytic Activity From High Throughput Cyclic Voltammetry*
+    
+
