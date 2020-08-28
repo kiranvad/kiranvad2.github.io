@@ -1,6 +1,4 @@
-## Kiran Vaddi | Personal webpage 
-
-Hello! Welcome to my personal webpage.
+## Welcome to my personal webpage.
 
 I am a PhD student at the [Materials Design and Innovation](http://engineering.buffalo.edu/materials-design-innovation.html), Univeristy at Buffalo, Buffalo, NY, USA. 
 
@@ -8,8 +6,10 @@ I am working at the interface of Machine learning and Computational Material Sci
 
 Previously, I obtained my Bachelors and Masters from [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/)
 
-[Google Scholar](https://scholar.google.com/citations?user=GbNEbEkAAAAJ&hl=en&oi=ao) \
-[Github](https://github.com/kiranvad)
+
+My full CV is [here](https://github.com/kiranvad/kiranvad.github.io/blob/master/cv.pdf)
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=GbNEbEkAAAAJ&hl=en&oi=ao), [Github](https://github.com/kiranvad) and [Twitter](https://twitter.com/imvaddi)
 
 
 ## Reserach Interests
