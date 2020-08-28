@@ -47,7 +47,7 @@ Minor : Industrial Engineering
 
 ## Conferences
 1. December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk) \
-*[Accelerating catalyst discovery using Gaussian processes and active learning]*(https://github.com/kiranvad/gpcv/blob/master/docs/MRS2019.pdf) 
+[*Accelerating catalyst discovery using Gaussian processes and active learning*](https://github.com/kiranvad/gpcv/blob/master/docs/MRS2019.pdf) 
 2. May 2019, Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster) \
 *Machine Learning-Based Simulation tools for Combinatorial Experiments*
 3. December 2018, Materials Research Society Fall Meeting, Boston, MA, USA (Poster) \
