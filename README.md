@@ -17,24 +17,20 @@ My main research interests are learning representations for data-efficient scien
 
 ## Education
 
-### University at Buffalo, Buffalo, NY, USA (2017-2021 Expected)
-_PhD in Materials Design and Innovation_
+* **University at Buffalo, Buffalo, NY, USA (2017-2021 Expected)** \
+_PhD in Materials Design and Innovation_  \
+Thesis : Representations for data driven material discovery  \
+Advisors : [Dr. Olga Wodo](http://www.owodo.org/) and [Dr. Krishna Rajan](https://tinyurl.com/y68324n2)
 
-Thesis : Representations for data driven material discovery
+* **Indian Institute of Technology Madras, Chennai, TN, India (2016-2017)** \
+_M.Tech in Thermal Engineering_  \
+Thesis : Luminescent solar concentrators using high contrast gratings<br/>
+Advisors : [Dr. K.S. Reddy](https://home.iitm.ac.in/ksreddy/) and [Dr. Bala Pesala](https://tinyurl.com/y63lcg9d)
 
-Advisors : [Dr. Olga Wodo](http://www.owodo.org/}) and [Dr. Krishna Rajan](https://tinyurl.com/y68324n2)
-
-### Indian Institute of Technology Madras, Chennai, TN, India (2016-2017)
-_M.Tech in Thermal Engineering_
-
-Thesis :  Luminescent solar concentrators using high contrast gratings 
-
-Advisors : [Dr. K.S. Reddy](https://home.iitm.ac.in/ksreddy/) and [Dr. Bala Pesala](http://re.acsir.res.in/drbalapesala/biography/)
-
-### Indian Institute of Technology Madras, Chennai, TN, India (2012-2016)
-Major : B.Tech in Mechanical Engineering 
-
+* **Indian Institute of Technology Madras, Chennai, TN, India (2012-2016)** \
+Major : B.Tech in Mechanical Engineering \
 Minor : Industrial Engineering 
+ 
  
 ## Publications
 
@@ -46,11 +42,13 @@ Minor : Industrial Engineering
  
 
 ## Conferences
-1. December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk) \
+* December 2019, Materials Research Society Fall Meeting, Boston, MA, USA (Contributed Talk) \
 [*Accelerating catalyst discovery using Gaussian processes and active learning*](https://github.com/kiranvad/gpcv/blob/master/docs/MRS2019.pdf) 
-2. May 2019, Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster) \
+
+* May 2019, Toyota Research Institute Accelerated Material Design and Discovery Meeting, Boston, MA, USA (Poster) \
 *Machine Learning-Based Simulation tools for Combinatorial Experiments*
-3. December 2018, Materials Research Society Fall Meeting, Boston, MA, USA (Poster) \
+
+* December 2018, Materials Research Society Fall Meeting, Boston, MA, USA (Poster) \
 *Data Analytics for Mapping Catalytic Activity From High Throughput Cyclic Voltammetry*
     
 
