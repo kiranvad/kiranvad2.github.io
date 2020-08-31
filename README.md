@@ -4,7 +4,7 @@ I am a PhD student at the department of [Materials Design and Innovation](http:/
 
 I am working at the interface of Machine learning and Computational Material Sciences. 
 
-Previously, I spent wonderful five years at the prestigious [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/) and obtained bachelors and masters from the department of Mechanical Engineering. 
+Previously, I spent five wonderful years at the prestigious [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/) and obtained bachelors and masters from the department of Mechanical Engineering. 
 
 
 My full CV is [here](https://github.com/kiranvad/kiranvad.github.io/blob/master/cv.pdf)
@@ -12,7 +12,7 @@ My full CV is [here](https://github.com/kiranvad/kiranvad.github.io/blob/master/
 Find me on [Google Scholar](https://scholar.google.com/citations?user=GbNEbEkAAAAJ&hl=en&oi=ao), [Github](https://github.com/kiranvad) and [Twitter](https://twitter.com/imvaddi)
 
 
-## Reserach Interests
+## Research Interests
 My main research interests are learning representations for data-efficient scientific discovery and understanding of physical phenomenon. Representations play key role in realizing the dream of autonomous experimental design using techniques such as active learning and reinforcement learning. I am interested in developing frameworks to understand materials based on their topology and (differential) geometry that are both computationally tractable and interpretable.
 
 ## Education
