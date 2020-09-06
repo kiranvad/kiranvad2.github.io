@@ -36,7 +36,7 @@ Minor : Industrial Engineering
 
 * **Vaddi, Kiran**, and Olga Wodo. [Metric Learning for High-Throughput Combinatorial Data Sets. ACS Combinatorial Science 21.11 (2019): 726-735.](https://pubs.acs.org/doi/abs/10.1021/acscombsci.9b00086)
 
-* Elikkottil, A., **Vaddi, K.**, Reddy, K. S., Pesala, B. [Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings.* In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020](https://link.springer.com/chapter/10.1007/978-981-15-2666-4_5)
+* Elikkottil, A., **Vaddi, K.**, Reddy, K. S., Pesala, B. [Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings. In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020](https://link.springer.com/chapter/10.1007/978-981-15-2666-4_5)
 
 * **Vaddi, Kiran**, Olga Wodo, Krishna Rajan. **Active knowledge extraction from cyclic voltammetry** ACS Analytical Chemistry, _to be submitted_, 2020
  
