@@ -1,6 +1,8 @@
 ## Welcome to my personal webpage.
 
-I am a PhD student at the department of [Materials Design and Innovation](http://engineering.buffalo.edu/materials-design-innovation.html), Univeristy at Buffalo, Buffalo, NY, USA. 
+I recently accepeted a postdoc scholar position in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
+
+I will also be affilitate to the [eScience Institute](https://escience.washington.edu/) as a *UW Data Science Postdoctoral Fellow* 
 
 I am working at the interface of Machine learning and Computational Material Sciences. 
 
@@ -17,15 +19,13 @@ My main research interests are learning representations for data-efficient scien
 
 ## Education
 
-* **University at Buffalo, Buffalo, NY, USA (2017-2021 Expected)** \
+* **University at Buffalo, Buffalo, NY, USA (2017-2021)** \
 _PhD in Materials Design and Innovation_  \
-Thesis : Representations for data driven material discovery  \
-Advisors : [Dr. Olga Wodo](http://www.owodo.org/) and [Dr. Krishna Rajan](https://tinyurl.com/y68324n2)
+Thesis : Representations for data driven material discovery  
 
 * **Indian Institute of Technology Madras, Chennai, TN, India (2016-2017)** \
 _M.Tech in Thermal Engineering_  \
 Thesis : Luminescent solar concentrators using high contrast gratings<br/>
-Advisors : [Dr. K.S. Reddy](https://home.iitm.ac.in/ksreddy/) and [Dr. Bala Pesala](https://tinyurl.com/y63lcg9d)
 
 * **Indian Institute of Technology Madras, Chennai, TN, India (2012-2016)** \
 Major : B.Tech in Mechanical Engineering \
@@ -38,7 +38,7 @@ Minor : Industrial Engineering
 
 * Elikkottil, A., **Vaddi, K.**, Reddy, K. S., Pesala, B. [Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings. In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020](https://link.springer.com/chapter/10.1007/978-981-15-2666-4_5)
 
-* **Vaddi, Kiran**, Olga Wodo, Krishna Rajan. **Active knowledge extraction from cyclic voltammetry** ACS Analytical Chemistry, _to be submitted_, 2020
+* **Vaddi, Kiran**, Olga Wodo **Active knowledge extraction from cyclic voltammetry** ACS Analytical Chemistry, _to be submitted_, 2020
  
 
 ## Conferences
