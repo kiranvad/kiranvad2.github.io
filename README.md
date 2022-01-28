@@ -1,10 +1,11 @@
-## Welcome to my personal webpage.
+## Welcome to my personal webpage. 
+### Contact : KiranVad AT YouDub DOT EDU
 
-I recently accepeted a postdoc scholar position in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
+I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
 
 I will also be affilitate to the [eScience Institute](https://escience.washington.edu/) as a *UW Data Science Postdoctoral Fellow* 
 
-I am working at the interface of Machine learning and Computational Material Sciences. 
+I am working at the interface of Machine learning and Material Sciences with special focus on the relaization of autnoumous material discovery and design. 
 
 Previously, I spent five wonderful years at the prestigious [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/) and obtained bachelors and masters from the department of Mechanical Engineering. 
 
@@ -21,7 +22,7 @@ My main research interests are learning representations for data-efficient scien
 
 * **University at Buffalo, Buffalo, NY, USA (2017-2021)** \
 _PhD in Materials Design and Innovation_  \
-Thesis : Representations for data driven material discovery  
+Thesis : [Representations for data driven material discovery](https://www.proquest.com/openview/4df4c360a5c128c1961fdac59af536e3/1?pq-origsite=gscholar&cbl=18750&diss=y)  
 
 * **Indian Institute of Technology Madras, Chennai, TN, India (2016-2017)** \
 _M.Tech in Thermal Engineering_  \
@@ -38,7 +39,7 @@ Minor : Industrial Engineering
 
 * Elikkottil, A., **Vaddi, K.**, Reddy, K. S., Pesala, B. [Reduction of Escape Cone Losses in Luminescent Solar Concentrators Using High-Contrast Gratings. In Advances in Energy Research, Vol. 1 (pp. 37-43). Springer, Singapore, 2020](https://link.springer.com/chapter/10.1007/978-981-15-2666-4_5)
 
-* **Vaddi, Kiran**, Olga Wodo **Active knowledge extraction from cyclic voltammetry** ACS Analytical Chemistry, _to be submitted_, 2020
+* **Vaddi, Kiran**, Olga Wodo [Active knowledge extraction from cyclic voltammetry, 2021](https://chemrxiv.org/engage/chemrxiv/article-details/60c7589e4c8919b890ad4bfc)
  
 
 ## Conferences
