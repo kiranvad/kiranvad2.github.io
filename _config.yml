@@ -1,3 +1,16 @@
 theme: jekyll-theme-cayman
 title: Kiran Vaddi 
 description: Postdoc at Univeristy of Washington Seattle
+
+navigation:
+  Home: "/"
+  About: "/about"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
