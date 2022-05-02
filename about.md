@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## Research Interests
 My main research interests are learning representations for data-efficient scientific discovery and understanding of physical phenomenon. 
