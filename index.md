@@ -1,5 +1,5 @@
 ---
-layout : home
+layout : default
 ---
 I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
 
