@@ -1,11 +1,16 @@
 ---
 layout : home
 ---
-<img style="float: right;" src="data/profile-min.jpeg">
+<img 
+     src="data/profile-min.jpeg"
+     width="25%"
+     height="25%"
+     align="left"
+     >
 
 I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
 
-I will also be affilitate to the [eScience Institute](https://escience.washington.edu/) as a *UW Data Science Postdoctoral Fellow* 
+I am also an affilitate at the [eScience Institute](https://escience.washington.edu/) as a *UW Data Science Postdoctoral Fellow* and Co-chair the weekly postdo seminar series at the eScience.
 
 I am working at the interface of Machine learning and Material Sciences with special focus on the relaization of autnoumous material discovery and design. 
 
