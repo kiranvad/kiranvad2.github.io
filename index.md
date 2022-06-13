@@ -1,6 +1,8 @@
 ---
 layout : home
 ---
+<img style="float: right;" src="data/profile-min.jpeg">
+
 I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
 
 I will also be affilitate to the [eScience Institute](https://escience.washington.edu/) as a *UW Data Science Postdoctoral Fellow* 
