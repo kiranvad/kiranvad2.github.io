@@ -6,6 +6,7 @@ layout : home
      width="25%"
      height="25%"
      align="left"
+     style="float:left; padding-right:10px"
      >
 
 I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
