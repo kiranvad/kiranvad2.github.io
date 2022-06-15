@@ -3,8 +3,8 @@ layout : home
 ---
 <img 
      src="data/profile-min.jpeg"
-     width="25%"
-     height="25%"
+     width="30%"
+     height="30%"
      align="left"
      style="float:left; padding-right:10px"
      >
