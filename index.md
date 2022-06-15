@@ -4,9 +4,9 @@ layout : home
 <img 
      src="data/profile-min.jpeg"
      width="30%"
-     height="30%"
+     height="60%"
      align="left"
-     style="float:left; padding-right:10px"
+     style="float:left; padding-right:30px"
      >
 
 I am a postdoc scholar in the [Department of Chemical Enginerring](https://www.cheme.washington.edu/) at the University of Washington, Seattle. 
