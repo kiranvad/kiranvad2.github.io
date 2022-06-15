@@ -18,6 +18,6 @@ I am working at the interface of Machine learning and Material Sciences with spe
 Previously, I spent five wonderful years at the [Indian Institute of Technlogy Madras](https://www.iitm.ac.in/) and obtained bachelors and masters from the department of Mechanical Engineering. 
 
 
-My full CV is [here](https://github.com/kiranvad/kiranvad.github.io/blob/master/KiranVaddi_CV.pdf)
+My full CV is [here](data/KiranVaddi_CV.pdf)
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=GbNEbEkAAAAJ&hl=en&oi=ao), [Github](https://github.com/kiranvad) and [Twitter](https://twitter.com/imvaddi)
