@@ -5,3 +5,5 @@ markdown: kramdown
 
 # build settings
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-cayman
